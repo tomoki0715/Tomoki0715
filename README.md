@@ -36,43 +36,6 @@
   <p>&copy; 2023 Your Name</p>
 </footer>
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-  }
-  a {
-    color: #0366d6;
-    text-decoration: none;
-  }
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-  }
-  h1 {
-    margin-bottom: 0;
-  }
-  nav {
-    background-color: #444;
-    display: flex;
-    justify-content: center;
-    padding: 0.5rem;
-  }
-  nav a {
-    color: #fff;
-    margin: 0 0.5rem;
-  }
-  section {
-    padding: 2rem;
-  }
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-  }
-</style>
+
+ 
+   
