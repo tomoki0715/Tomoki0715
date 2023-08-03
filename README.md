@@ -1,12 +1,4 @@
 <h1 align="center">My Portfolio</h1>
-<p>
-  <a href="">
-    <img height="20" src="" />
-  </a>
-  <a href="">
-    <img height="20" src="" />
-  </a>
-</p>
 
 <img src="" height="200"> <img src="master/img/taichifuruhashi_kao2.jpg?raw=true" height="200"> <img src="hmg/taichifuruhashi_kao_remini.jpg?raw=true" height="200">
 
